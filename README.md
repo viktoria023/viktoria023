@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I'm Viki and currently working on antibiotic resistance prediction as part of my PhD. 🔭
+
+For this I try to learn software engineering, data science and bioinformatics skills. 🌱
+
+Reach me through my [website](https://www.vbrunner.me) or [LinkedIn](https://www.linkedin.com/in/viktoria-brunner-3964a51bb/).
 <!--
 **viktoria023/viktoria023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
