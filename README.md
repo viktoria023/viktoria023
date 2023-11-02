@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Viki, a systmes biology graduate student currently working on antibiotic resistance prediction as part of my PhD. 🔭
+I'm Viki, a systems biology graduate student currently working on antibiotic resistance prediction as part of my PhD. 🔭
 
 For this I try to learn software engineering, data science and bioinformatics skills. 🌱
 
