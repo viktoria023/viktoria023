@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Viki, a bioinformatician currently working on whole genome asssembly and antimicrobial resistance prediction for various microbes. 🦠🔭
+I'm Viki, a bioinformatician currently working on whole genome sequencing assembly and antimicrobial resistance prediction for various microbes. 🦠🔭
 
 As part of this I am continously learning more about software engineering, data science and bioinformatics skills. 🌱
 
