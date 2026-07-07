@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I'm Viki, a computational biology graduate student currently working on antibiotic resistance prediction as part of my PhD. 🦠🔭
+I'm Viki, a bioinformatician currently working on whole genome asssembly and antimicrobial resistance prediction for various microbes. 🦠🔭
 
-For this I try to learn software engineering, data science and bioinformatics skills. 🌱
+As part of this I am continously learning more about software engineering, data science and bioinformatics skills. 🌱
 
 Reach me through my [website](https://www.vbrunner.me) or [LinkedIn](https://www.linkedin.com/in/viktoria-brunner-3964a51bb/).
 <!--
